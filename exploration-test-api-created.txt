@@ -1,0 +1,3 @@
+This file was created via the GitHub MCP tool create_or_update_file during exploration.
+
+Testing the API file creation functionality.
