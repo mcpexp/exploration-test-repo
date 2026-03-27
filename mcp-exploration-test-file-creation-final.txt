@@ -1,0 +1,8 @@
+This file was created during MCP tool exploration to test the create_or_update_file tool.
+
+Purpose: Understand file creation workflow, required parameters, and response format.
+
+Tool tested: create_or_update_file
+Parameters used: owner, repo, path, content, message, branch
+
+This is part of free exploration in the repository_management domain.
