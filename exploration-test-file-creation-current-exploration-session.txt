@@ -1,0 +1,5 @@
+This file was created to explore the create_or_update_file MCP tool.
+
+Purpose: Understand file creation workflow, required parameters, and response format.
+
+Created during free exploration of repository management tools.
