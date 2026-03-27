@@ -1,0 +1,2 @@
+This is a test file created via MCP tool exploration.
+It demonstrates file creation in a GitHub repository.
