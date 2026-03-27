@@ -1,0 +1,9 @@
+This file was created to explore the create_or_update_file tool in the MCP repository management domain.
+
+Tool exploration details:
+- Tool: create_or_update_file
+- Purpose: Create or update a single file in a GitHub repository
+- Required arguments: owner, repo, path, branch, message, content
+- Optional argument: sha (for updates)
+
+This exploration helps understand the tool's behavior and expected inputs.
