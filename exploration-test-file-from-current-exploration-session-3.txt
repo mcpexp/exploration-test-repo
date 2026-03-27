@@ -1,0 +1,8 @@
+This is a test file created during MCP tool exploration to understand how create_or_update_file works.
+
+Tool exploration insights:
+- create_or_update_file requires owner, repo, path, branch, message, content
+- Can create new files or update existing ones with SHA
+- Returns commit information on success
+
+This file was created as part of free exploration in the repository_management domain.
