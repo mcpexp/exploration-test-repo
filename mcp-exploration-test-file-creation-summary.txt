@@ -1,0 +1,5 @@
+This file was created during MCP tool exploration to test the create_or_update_file functionality.
+
+Purpose: Understand how file creation works, what parameters are required, and how the tool responds.
+
+This is part of free exploration of repository_management domain tools.
