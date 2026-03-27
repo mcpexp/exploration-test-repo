@@ -1,3 +1,0 @@
-This is a test file created during MCP tool exploration.
-Timestamp: 2026-03-27
-Purpose: Testing create_or_update_file tool.
