@@ -1,0 +1,12 @@
+This file was created during MCP tool exploration to test create_or_update_file.
+
+Purpose: Understand file creation workflow, required parameters, and response format.
+
+Tools explored so far:
+- get_me
+- search_repositories
+- list_issues
+- get_file_contents
+- browser_navigate
+
+This is a test for learning repository management tools.
