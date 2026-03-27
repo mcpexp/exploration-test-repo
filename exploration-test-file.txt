@@ -1,0 +1,2 @@
+This is a test file created via MCP create_or_update_file tool.
+Exploring repository management capabilities.
