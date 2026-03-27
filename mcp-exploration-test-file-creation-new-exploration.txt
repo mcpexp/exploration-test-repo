@@ -1,0 +1,6 @@
+This is a test file created during MCP tool exploration.
+
+Purpose: To understand how the create_or_update_file tool works.
+Timestamp: Testing file creation capabilities.
+
+This file demonstrates the ability to create new files via the GitHub API through MCP tools.
