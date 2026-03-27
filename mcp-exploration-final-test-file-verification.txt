@@ -1,0 +1,15 @@
+This file was created during MCP exploration to test the create_or_update_file tool.
+
+Purpose: Verify that state-changing operations work correctly and can be verified with read operations.
+
+Timestamp: Exploration of repository_management domain tools.
+
+Tools explored so far:
+- get_me: Identifies authenticated user
+- search_repositories: Lists repositories
+- get_file_contents: Examines repository structure
+- list_issues: Views open issues
+- browser_navigate: Navigates to URLs in browser
+- create_or_update_file: Creates or updates files (this tool)
+
+Next: Will verify file creation with get_file_contents.
