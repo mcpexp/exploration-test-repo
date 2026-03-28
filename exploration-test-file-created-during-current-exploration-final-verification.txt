@@ -1,0 +1,5 @@
+This file was created during the MCP tool exploration to test the create_or_update_file tool functionality.
+
+Timestamp: Exploration session for repository_management domain.
+
+Purpose: Verify that file creation works as expected and can be inspected afterwards.
