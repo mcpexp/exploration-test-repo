@@ -1,0 +1,4 @@
+This file was created using the create_or_update_file MCP tool during exploration of repository_management domain.
+
+Purpose: To test file creation capabilities and understand the tool's behavior.
+Timestamp: Exploration session for learning MCP tools.
