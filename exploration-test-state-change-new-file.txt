@@ -1,0 +1,5 @@
+This file was created during MCP tool exploration to test the create_or_update_file tool.
+
+Purpose: Understand how state-changing operations work in repository management.
+
+Timestamp: Exploration in progress.

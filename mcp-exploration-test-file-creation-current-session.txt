@@ -1,0 +1,7 @@
+This is a test file created during MCP tool exploration to understand how create_or_update_file works.
+
+Timestamp: 2026-03-27
+Purpose: Testing file creation via MCP tools
+Tool: create_or_update_file
+Expected behavior: File should be created in repository
+Verification: Will read back after creation

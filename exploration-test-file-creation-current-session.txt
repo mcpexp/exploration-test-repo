@@ -1,0 +1,11 @@
+This is a test file created during the current exploration session to understand the create_or_update_file tool.
+
+Tool parameters tested:
+- owner: repository owner
+- repo: repository name
+- path: file path
+- branch: target branch
+- content: file content
+- message: commit message
+
+This helps explore the MCP repository management capabilities.

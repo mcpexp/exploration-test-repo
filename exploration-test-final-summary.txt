@@ -1,0 +1,9 @@
+This file was created to test the create_or_update_file MCP tool during free exploration of repository_management domain.
+
+Observations:
+- Tool requires owner, repo, path, branch, message, content
+- SHA parameter is optional for updates
+- Returns commit details on success
+- Useful for creating or modifying repository files programmatically
+
+This exploration covered GitHub identity, repository listing, file operations, issue management, pull request management, and browser automation.

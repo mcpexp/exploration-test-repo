@@ -1,0 +1,6 @@
+This file was created using the create_or_update_file MCP tool during exploration.
+
+Purpose: Test file creation functionality in repository management.
+Timestamp: Exploration test for understanding tool behavior.
+
+Expected outcome: File should appear in repository root with this content.

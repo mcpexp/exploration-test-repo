@@ -1,0 +1,5 @@
+This file was created during free exploration of MCP tools for repository management.
+
+Purpose: Test the create_or_update_file tool to understand its behavior, inputs, and outputs.
+
+Timestamp: Exploration in progress.

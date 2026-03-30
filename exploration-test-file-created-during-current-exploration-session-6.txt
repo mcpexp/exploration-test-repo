@@ -1,0 +1,9 @@
+This is a test file created during the current exploration session to understand the create_or_update_file tool.
+
+Tool exploration summary:
+- Tool: create_or_update_file
+- Purpose: Create or update files in a GitHub repository
+- Required arguments: owner, repo, path, branch, content, message
+- Optional: sha (for updates)
+
+This helps verify the tool works as expected.
